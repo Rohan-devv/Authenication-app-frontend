@@ -4,9 +4,9 @@ const registerMessage = document.getElementById("message");
 const loginForm = document.getElementById("loginForm");
 const loginMessage = document.getElementById("login-message");
 
-const profile_user = document.getElementById("username");
-const profile_email = document.getElementById("email");
-const profile_role = document.getElementById("role");
+const profile_user = document.getElementById("profile-username");
+const profile_email = document.getElementById("profile-email");
+const profile_role = document.getElementById("profile-role");
 const logoutBtn = document.getElementById("logout");
 
 if (profile_user && profile_email && profile_role) {
