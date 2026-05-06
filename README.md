@@ -4,7 +4,7 @@ A clean, responsive authentication-based frontend built with **HTML**, **CSS**, 
 
 ## Live Project
 
-- Live URL: Add your hosted link here
+- Live URL: [Add your hosted link here](https://authenication-app-frontend.vercel.app/)
 - GitHub Repository: Add your public repository link here
 
 ## Project Overview
