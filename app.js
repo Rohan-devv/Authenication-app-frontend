@@ -24,7 +24,7 @@ if (profile_user && profile_email && profile_role) {
 
       if (!data.success) {
         // redirect to login page
-        window.location.href = "index.html";
+        console.log("Not logged in ")
       } else {
         const profilData = data.data;
 
