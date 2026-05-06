@@ -24,7 +24,7 @@ if (profile_user && profile_email && profile_role) {
 
       if (!data.success) {
         // redirect to login page
-        window.location.href = "login.html";
+        window.location.href = "index.html";
       } else {
         const profilData = data.data;
 
@@ -34,7 +34,7 @@ if (profile_user && profile_email && profile_role) {
       }
     } catch (error) {
       console.log(error);
-      window.location.href = "login.html";
+      window.location.href = "index.html";
     }
   });
 }
